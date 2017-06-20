@@ -8,7 +8,11 @@
   Copiar el [pist.json](https://github.com/wootsbot/pist-tilix/blob/master/src/json/pist.json) dentro del directorio src/json
 
 Local: `~/.config/tilix/schemes`
+
 Global: `/usr/share/tilix/schemes`
+
+### Fonts
+<p align="center"><blockquote>Font: <a href="https://adobe-fonts.github.io/source-code-pro">Source Code Pro</a></blockquote></p>
 
 ## capturas
 
