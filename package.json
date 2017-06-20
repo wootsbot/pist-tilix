@@ -1,0 +1,19 @@
+{
+  "name": "pist-tilix",
+  "title": "Pist Tilix",
+  "version": "0.1.0",
+  "description": "scheme para la terminal Tilix",
+  "main": "index.js",
+  "repository": "git@github.com:wootsbot/pist-tilix.git",
+  "author": "Jorge Luis Calleja Alvarado <jorgelca1205@gmail.com>",
+  "license": "(Apache-2.0 AND CC-BY-SA-4.0)",
+  "keywords": [
+    "pist",
+    "pistache",
+    "elegant",
+    "tilix",
+    "color",
+    "scheme",
+    "codea"
+  ],
+}
