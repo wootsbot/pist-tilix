@@ -5,8 +5,8 @@
 ## Instalación
   Copiar el [pist.json](https://github.com/wootsbot/pist-tilix/blob/master/src/json/pist.json) dentro del directorio src/json
 
-  Local: ~/.config/tilix/schemes
-  Global: /usr/share/tilix/schemes
+Local: `~/.config/tilix/schemes`
+Global: `/usr/share/tilix/schemes`
 
 ## capturas
 
