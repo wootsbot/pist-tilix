@@ -3,7 +3,7 @@
 <p align="center">Elegantes colores para la Terminal <a href="https://gnunn1.github.io/tilix-web">Tilix</a></p>
 
 ## Instalación
-  Copiar el ['pist.json'](https://github.com/wootsbot/pist-tilix/blob/master/src/json/pist.json) dentro del directorio src/json
+  Copiar el [pist.json](https://github.com/wootsbot/pist-tilix/blob/master/src/json/pist.json) dentro del directorio src/json
 
   Local: ~/.config/tilix/schemes
   Global: /usr/share/tilix/schemes
