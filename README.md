@@ -1,5 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/wootsbot/pist-tilix/master/src/assets/logo.png"/></p>
 
+<p align="center">v <strong>0.1.0</strong> </p>
+
 <p align="center">Elegantes colores para la Terminal <a href="https://gnunn1.github.io/tilix-web">Tilix</a></p>
 
 ## Instalación
