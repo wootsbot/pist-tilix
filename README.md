@@ -1,4 +1,4 @@
-[Logo](/src/assets/logo.png "Logo") 
+![Logo](/src/assets/logo.png "Logo") 
 
 <p align="center">v <strong>0.1.0</strong> </p>
 
